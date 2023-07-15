@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.odd.fancy {
+.fancy {
     font-size: 24px;
 }
 
 #fourth {
     background-color: #24e01f;
-    font-size: 24px;
     font-weight: bold;
 }
